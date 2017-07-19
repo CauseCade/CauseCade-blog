@@ -8,7 +8,7 @@ url:         "https://sandcrawler.github.io/CauseCade-blog/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
+ - getStarted.md
 
 # Google services
 google_verification:
@@ -106,7 +106,7 @@ text:
     email:    'Email Address'
     content:  'What would you like to say?'
     subject:  'New submission!'
-    submit:   'Say Hello'
+    submit:   'Submit'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'
