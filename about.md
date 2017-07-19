@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Blog
-permalink: /CauseCade-blog/about/
 tags: about
 ---
 
