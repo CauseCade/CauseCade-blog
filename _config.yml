@@ -3,8 +3,8 @@ title:       CauseCade Blog
 email:       nemoandrea@outlook.com
 author:      Nemo Andrea
 description: Everything about CauseCade
-baseurl:     ""
-url:         ""
+baseurl:     "/CauseCade-blog"
+url:         "https://sandcrawler.github.io/CauseCade-blog/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
