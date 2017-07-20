@@ -3,7 +3,7 @@ layout:     post
 title:      CauseCade - What is it?
 date:       2017-07-18 16:00:00
 summary:    What is CauseCade and what can it do?
-categories: about info
+categories: about info FAQ
 ---
 
 ## CauseCade

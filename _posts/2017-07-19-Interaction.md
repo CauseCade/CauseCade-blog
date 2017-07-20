@@ -3,7 +3,7 @@ layout:     post
 title:      How can you help / interact?
 date:       2017-07-19 
 summary:    How can you contact me or help me make this a better user experience?
-categories: info interaction
+categories: info interaction FAQ
 ---
 
 ## Feedback
