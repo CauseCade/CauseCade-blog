@@ -2,7 +2,7 @@
 layout:     post
 title:      Major Update
 date:       2018-01-01 
-summary:    Taking at look at the progress that ahs been made
+summary:    Taking at look at the progress that has been made
 categories: news
 ---
 
